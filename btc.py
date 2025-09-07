@@ -2,8 +2,8 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Replace with your actual bot token
-TOKEN = "8181040630:AAF4r-ECUHJOgg6VpClcncq9jQrH1spS1us"
-DOMAIN_LINK = "https://t.me/bitcmiin_bot?startapp"  # Replace with your actual domain
+TOKEN = "7589472512:AAEvTrSOHBSD1OomxxfRQGlBC33QhGI7m0g"
+DOMAIN_LINK = "https://t.me/bitcmin_bot?startapp"  # Replace with your actual domain
 
 bot = telebot.TeleBot(TOKEN)
 
